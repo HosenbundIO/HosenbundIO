@@ -12,7 +12,7 @@
   Improved the `NotImplementedError` raised by `save_npz` for LIL/DOK sparse matrices to clearly suggest converting via `.tocsr()` or `.tocoo()` first, and extended tests to cover both matrix and array variants. Resolves [#25305](https://github.com/scipy/scipy/issues/25305).
 
 ## Skills
-Python · C++ · SQL · PySpark
+Python · C++ · SQL · TypeScript
 
 ## Interests
 Quantitative Finance · Time Series Analysis · Algorithmic Trading
